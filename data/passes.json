@@ -1,0 +1,132 @@
+[
+  {
+    "category": "passing",
+    "name": "Toreando",
+    "description": "One of the most versatile and widely used guard passes is the Toreando or bull fighter pass. It's called the bull fighter pass because a common variation is that you push your opponent's legs towards him, and when he pushes back, you step to the side with perfect timing like a bull fighter against a bull. In reality there are many variations of the Toreando, which all suit slightly different situations, grips and postures of your opponent. But what all Toreandos have in common is that you hold your opponent's legs and pass around them.",
+    "positions": ["Open Guard"],
+    "difficulty": 2,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Knee Slide",
+    "description": "The knee slide (also called the knee cut or knee through pass) is a guard pass that is often used at the highest levels of BJJ competition. It's usually initiated from a position in which one of the opponent's legs is trapped in between the passer's legs, such as reverse de la riva or half guard. Knee slides are very versatile, as they can be performed either with speed or with pressure, and with many different grips and weight distributions. They're also one of the most common guard pass techniques at the black belt level. This makes knee slides a must have tool for guard passers in BJJ.",
+    "positions": ["De La Riva", "Reverse De La Riva", "Half Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Near Side Knee Through",
+
+    "description": "The near side knee through pass is similar to the knee slide, but the difference is that in the knee slide you pass to the opposite side of the leg you're using, and in the near side knee through you pass to the side of the leg you're pushing through the guard. An advantage of the near side knee through compared to the knee slide is that you don't necessarily need to step over one of your opponent's legs first.",
+    "positions": ["Closed Guard", "Open Guard", "De La Riva"],
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Leg Drag",
+
+    "description": "In the leg drag you drag one of your opponent's legs across your body to get passed it. It's an around-the-legs pass and is often combined with other around-the-legs passes such as the Toreando pass.",
+    "positions": ["Open Guard", "De La Riva"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Smash Pass",
+
+    "description": "The smash pass is a pressure pass in which you smash your opponent's legs together with your body weight. There's different variations, but usually you use your chest, belly or your hip to lay heavily on both of your opponent's legs. If you do the smash pass right, your opponent won't be able to move his legs at all, which will give you a free pathway to pass either to the mount or to his back.",
+    "positions": ["Half Guard", "Open Guard"],
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Leg Weave",
+
+    "description": "The leg weave pass is similar to the smash pass, but instead using your hips or belly to smash your opponent's legs to the floor, you use your shoulder. The advantage of this is that your legs are free to move around your opponent, and the drawback is that you naturally have less pressure.",
+    "positions": ["Open Guard", "Half Guard"],
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Throw By",
+
+    "description": "For the throw by grab one of your opponent's gi pants and throw that leg explosively past your body. The difference with the leg drag is that for the throw by you stand up straight and thus use all your dead lift muscles to get the leg passed you explosively. But, you can also use the throw by and then drop down again to stabilize in a leg drag position.",
+    "positions": ["Spider Guard", "Spider Lasso Guard", "Open Guard"],
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Over Under Pass",
+
+    "description": "The over under guard pass is so called because you have one arm under and one arm over your opponent's legs. The over under is a classic pressure pass and is usually initiated from some kind of half guard. Bernardo Faria is famous for using it a lot in competition.",
+    "positions": ["Half Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Double Under",
+
+    "description": "For the double under pass you pass both your arms under your opponent's legs, and then you usually try to stack him. From the stacked position, you get a thumb-in cross collar grip and use that to push your opponent's legs out of the way. Alternatively, you can use the double under to set up the stack position and then pass in some other way, such as with a leg drag.",
+    "positions": ["Half Guard", "Open Guard", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Long Step",
+
+    "description": "The long step is an explosive guard pass. Because it's so explosive, it's also one of the harder passes to learn. To do the long step pass, you switch you hips to launch one of your legs far out of your opponent's guard, while landing with strong upper body pressure (for example with a good cross face). Although the long step is hard to learn, it's one of the passes you see the most at the black belt level. ",
+    "positions": ["Single Leg X", "Reverse De La Riva"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+
+  {
+    "category": "passing",
+    "name": "Cross Grip",
+
+    "description": "The cross grip pass is one of the strongest passes in Brazilian jiu jitsu according to Keenan Cornelius. What's great about it is that as soon as you get a cross grip on your opponent's gi pants, it becomes hard for your opponent to set up a good guard. The cross grip pass is also sometimes called the mad dog pass, because once you have the cross pants grip, you really also want the collar on the same side with your other hand, and if your opponents is denying this it can lead you to kind of keep running in circles trying to get that grip.",
+    "positions": ["Open Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+
+  {
+    "category": "passing",
+    "name": "X Pass",
+
+    "description": "The X pass is a very useful guard pass. It can be done when you're standing with one leg in between your opponent's legs (what's often called the headquarters position). To do the X pass, you mule kick your trapped leg backwards, and before you put it back, you push your opponent's legs out of the way. This gets you passed the guard. I had a lot of success with this technique when I was a blue belt.",
+    "positions": ["Open Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "passing",
+    "name": "Cartwheel Pass",
+
+    "description": "The carthweel guard pass is effective from butterfly guard. You can also try to do it to pass open guard, which can be a good way to create movement and scrambles. But, you're unlikely to stick a guard pass from this, just because you leave so much space for your opponent to recover.",
+    "positions": ["Butterfly Guard", "Open Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  }
+]

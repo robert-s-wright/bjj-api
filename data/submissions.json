@@ -1,0 +1,637 @@
+[
+  {
+    "category": "submission",
+    "name": "Rear Naked Choke",
+    "type": "Choke",
+    "description": "The rear naked choke is one of BJJ's signature techniques. It requires little strength to apply, and is effective on opponents of all sizes, making it a great submission for smaller grapplers. As is the case with all effective submissions, the rear naked choke creates an anatomical mismatch. Specifically, it pits one person's arms against another person's neck. However, as opposed to other parts of the body, the neck is uniquely vulnerable to attack. An opponent can, for example, resist an armbar attempt by gripping his hands together and using strength to fight the attack. A rear naked choke, however, offers no such options. Once a rear naked choke is fully locked in, there is virtually no way to defend it. In addition to the rear naked choke's unique anatomical characteristics, its effectiveness stems from the position from which it is applied. Specifically, the rear naked choke is applied from the back Mount, which is widely considered the strongest position in BJJ due to the advantages it confers upon the person who attains it. The primary advantage of the back mount is that the person trapped in this position can't see his or her opponent. This allows the person who attains the position to launch attacks with little fear of retribution.",
+    "positions": ["Back Control"],
+    "difficulty": 2,
+    "videos": {
+      "Back Control": ["oYDe-hrazL8"]
+    },
+    "images": [
+      "https://i1.wp.com/www.studentofbjj.com/wp-content/uploads/2017/02/rearnakedchoke.png?resize=648%2C458&ssl=1",
+      "https://qph.cf2.quoracdn.net/main-qimg-c68ed3cfeec6317b99481791c1a7598c-lq",
+      "https://www.bjjee.com/wp-content/uploads/2017/04/rnc.jpg"
+    ]
+  },
+  {
+    "category": "submission",
+    "name": "Triangle",
+    "type": "Choke",
+    "description": "There are different types of triangle choke, but in every variation you're going to form a triangle around the neck of your opponent and one of his arms. Usually this triangle is formed with your legs by tucking one ankle behind the knee of your other leg before you squeeze to get the choke.  In some variations, however, you can use your arms to form the triangle shape as well. His arm being inside your legs is  important; it's a combination of your leg against one side of his neck and his own shoulder against the other side of his neck that makes this choke so effective! Here's a review of the five basic types of triangle choke. Note how every one of them includes his head and one arm trapped inside your triangled limbs...",
+    "positions": ["Closed Guard", "Mount"],
+    "difficulty": 4,
+    "videos": {
+      "Closed Guard": ["UGp6VzbkReA"],
+      "Mount": ["Q0hYV74kWvU"],
+      "Rear": ["96GTzr5AzKw"]
+    },
+    "images": [
+      "https://media.tenor.com/EmV3_H1f0EkAAAAC/triangle-choke.gif",
+      "https://www.bjjee.com/wp-content/uploads/2020/08/mounted-triangle-choke.jpg",
+      "https://cdn.shopify.com/s/files/1/1800/2299/articles/Entries-Into-Rear-Triangle-Back-Position-by-John-Danaher_1024x1024.jpg?v=1559580395"
+    ]
+  },
+  {
+    "category": "submission",
+    "name": "Arm Triangle",
+    "type": "Choke",
+    "description": "Arm triangle choke, side choke, or head and arm choke are generic terms describing blood chokeholds in which the opponent is strangled in between their own shoulder and the practitioner's arm. This is as opposed to the regular triangle choke, which denotes a chokehold using the legs, albeit with a similar mechanism of strangulation against the opponent's own shoulder. An arm triangle choke where the practitioner is on the side of the opponent and presses a forearm into the opposite side of the neck of the opponent is known as a side choke, such as from the kata-gatame hold. The time it takes for the opponent to be rendered unconscious does vary depending on the configuration of the grip and position, although the standard arm triangle is one of the fastest at 7.2 seconds.",
+    "positions": ["Side Control", "Mount"],
+    "difficulty": 3,
+    "videos": {
+      "Everywhere": ["zX4K7lFLhu8"],
+      "Mount": ["FnV9CNgHsuc"]
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/d/d5/Arm_triangle_choke.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neil_Melanson_Training_Day-Arm_triangle_choke.jpg/800px-Neil_Melanson_Training_Day-Arm_triangle_choke.jpg?20121219162911"
+    ]
+  },
+  {
+    "category": "submission",
+    "name": "Arm Bar",
+    "type": "Limb Lock",
+    "description": "The arm bar is a submission that overextends the elbow joint. It is one of the most commonly used submissions in Brazilian jiu jitsu. It's also used in other grappling arts, such as Judo, in which it's called ju ji gatame.",
+    "positions": [
+      "Side Control",
+      "Mount",
+      "Back Control",
+      "Closed Guard",
+      "Half Gaurd"
+    ],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Kimura",
+    "type": "Limb Lock",
+    "description": "The Kimura is a submission that internally rotates the shoulder too much. You can also use the kimura to sweep and control your opponent or to transition to other attacks.",
+    "positions": ["Side Control", "Mount", "Back Control", "Closed Guard"],
+    "difficulty": 3,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Americana",
+    "type": "Limb Lock",
+    "description": "The Americana is a submission that externally rotates the shoulder beyond its reach. It's a submission that is more commonly finished at the lower belt levels of Brazilian jiu jitsu.",
+    "positions": [
+      "Side Control",
+      "Mount",
+      "Back Control",
+      "Closed Guard",
+      "Kesa Gatame"
+    ],
+    "difficulty": 3,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""],
+      "Kesa Gatame": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Arm Crush",
+    "type": "Limb Lock",
+    "description": "The arm crush hyperextends the elbow joint, just like the arm bar. However, the body configuration you use to apply this submission is completely different from the arm bar.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 3,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Omoplata",
+    "type": "Limb Lock",
+    "description": "The Omoplata internally rotates the shoulder beyond its reach. It's similar to a Kimura, but you use your legs to apply the submission, rather than your arms.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Huizinga Roll",
+    "type": "Limb Lock",
+    "description": "The Huizinga roll is like a reverse omoplata. It was popularized by the Dutch judoka Johan Huizinga, who used it effectively in competition. You can use the Huizinga roll to flip someone from turtle to his back, as well as to finish the submission.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Monoplata",
+    "type": "Limb Lock",
+    "description": "The monoplata is similar to the arm bar in leg positioning, but instead of trying to hyperextend the elbow, you try to internally rotate the shoulder. This submission has been used to great effect by Marcelo Garcia.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+
+  {
+    "category": "submission",
+    "name": "Baratoplata",
+    "type": "Limb Lock",
+    "description": "The Baratoplata submission was popularized by Rafael “Barata” Freitas. You can use the Baratoplata when you go for the Kimura, but your unable to separate your opponent's arm from his body.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+
+  {
+    "category": "submission",
+    "name": "Tarikoplata",
+    "type": "Limb Lock",
+    "description": "The Tarikoplata is a submission that was invented by Tarik Hopstock. It's similar to the omoplata and Baratoplata, but the leg configuration is different. Tarik enters this submission from practically anywhere and uses it to sweep and submit his opponents.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Mir Lock",
+    "type": "Limb Lock",
+    "description": "The Mir lock was made famous by Frank Mir who hit it in a UFC match. It's a devastating submission from closed guard that externally rotates the shoulder. This submission is almost never used, which suggests it might not be high percentage. But then again, Frank used it successfully in an MMA match, so make of that what you will.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Standing Mir Lock",
+    "type": "Limb Lock",
+    "description": "Jon Jones hit what you might call a standing Mir lock against Glover Texeira in UFC 172. He didn't submit Glover with it, but he definitely hurt his shoulder (Glover had to get surgery to repair his labrum). I find it very interesting that these Americana style submissions are used in an explosive way in MMA, more so than in Brazilian jiu jitsu.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Monocana",
+    "type": "Limb Lock",
+    "description": "From the Monoplata position you can also hit an Americana style submission, if your opponent rotates his shoulder externally to defend the monoplata. I haven't seen this submission very often, but I've seen Marcelo Garcia hit it in training. (I wonder if the opponent could easily try a hitch hiker escape.)",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Standing Arm Lock",
+    "type": "Limb Lock",
+    "description": "Brazilian jiu jitsu doesn't use a lot of standing submissions, and they're largely thought to be low percentage. But tell that to Shinya Aoki! He used an Aikido style arm lock to break someone's arm from the standing position during an MMA match. (Again, I wonder how many low percentage submissions would work better if you apply them explosively.)",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Bulldog Choke",
+    "type": "Limb Lock",
+    "description": "The bulldog choke is not very common because your opponent needs to mess up quite a bit to end up there. But, Ben Askren used it to claim a comeback victory against Robbie Lawler in the UFC, and it also occurs sometimes in street fights.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Kangaroo Choke",
+    "type": "Limb Lock",
+    "description": "I saw a kangaroo use this choke and I started using it myself as well. Kangaroos have the perfect bodies for this choke, with their short and strong arms and long fingers. It's harder for me to do because I'm a human, but I can get this from belly down back mount when I completely flatten out my opponent. I grab an S-grip around my opponent's chin and squeeze my hands to my chest, just like the kangaroo in this video.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Guillotine",
+    "type": "Limb Lock",
+    "description": "The guillotine is one of the most frequently used and highest percentage submissions in Brazilian jiu jitsu. It can be done with a variety of grips. A major distinction is between arm in guillotines and arm out guillotines, which function quite differently from each other.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "D'arce Choke",
+    "type": "Limb Lock",
+    "description": "The D'arce choke or Brabo choke is a head and arm choke. It's often paired with guillotines and Anaconda chokes. It's often also a neck crank, and it's one of the hardest chokes in jiu jitsu to apply cleanly.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Anaconda Choke",
+    "type": "Limb Lock",
+    "description": "The Anaconda choke is similar to the D'arce choke, but you lock your arms the other way around. This submission is most commonly entered after a failed  arm in guillotine, from a front headlock position where both players lie on their back.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Japanese Neck Tie",
+    "type": "Limb Lock",
+    "description": "The Japanese neck tie lies somewhere in between the arm in guillotine and the Anaconda choke. Your hands are configured as in a guillotine, but you put your belly behind the back of your opponent's head and catch his leg with your legs, so that you can compress his head towards his chest.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Peruvian Neck Tie",
+    "type": "Limb Lock",
+    "description": "The Peruvian lies in between the arm in guillotine and the D'Arce choke. It's also similar to the Japanese neck tie in that you keep the arm in guillotine grips, but you try to use your body to compress the head towards the chest. But with this submission you compress the head be stepping your leg over the head and sitting down, and you prevent the rolling escape by throwing your other leg over the back.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "North South Choke",
+    "type": "Limb Lock",
+    "description": "The north south choke is typically applied from north south, with your arm around the neck and nothing on the other side of the neck. Your arm needs to be extremely tight and your shoulder needs to dip very low, in order to apply the choke on both sides of the neck using just one arm. The north south is very hard to get good at, but is used at the highest levels of jiu jitsu, for example by Marcelo Garcia.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Buggy Choke",
+    "type": "Limb Lock",
+    "description": "The Buggy choke is an uncommon head and arm choke from bottom side control. You grab your leg behind the back of your opponent's neck and pressure into his neck with your lat and onto his arm with your thigh. Most notably, Kade Rotulo hit this in competition in 2020.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Inverted Triangle",
+    "type": "Limb Lock",
+    "description": "The inverted triangle is a tricky submission, that's typically hit from bottom side control while the opponent is not paying attention. Compared to the normal triangle, your head faces the other way (towards your opponent's legs). It can be hard to finish this submission.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Back Triangle",
+    "type": "Limb Lock",
+    "description": "The back triangle is often entered from the back position. It's quite hard to finish the choke with the back triangle, but it can be done. More commonly, the back triangle position is used to attack arm locks.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Inverted Back Triangle",
+    "type": "Limb Lock",
+    "description": "In the inverted back triangle, you're on your opponent's back and you face his legs. This submission is rarely used in Brazilian jiu jitsu, but it's a staple in Judo because it's a quick attack you can do from turtle. ",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Loop Choke",
+    "type": "Limb Lock",
+    "description": "The loop choke is a gi choke that's a bit similar to a guillotine. You grab a cross collar grip and loop your arm around the back of your opponent's head, and then use something to pressure his head down (usually your free arm).",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Clock Choke",
+    "type": "Limb Lock",
+    "description": "The clock choke is a gi choke from top side turtle. You grab the same side collar (so right collar with your right arm), make sure it's under the neck and walk over to the other side of the turtle while keeping your opponent in place. This submission is reasonably rare.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Ezekiel Choke",
+    "type": "Limb Lock",
+    "description": "The Ezekiel choke is primarily a gi choke, although a no gi version exists (but it's much less common). Typically you grab a deep cross face, and with your cross face arm you grab the sleeve of your free hand, and then you pass your free hand over the throat of your opponent. This closed a loop around the neck and causes a tight strangle.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Ezekiel From The Back",
+    "type": "Limb Lock",
+    "description": "The Ezekiel can also be applied from the back, in which case the arm of your opponent is almost always also trapped, which is a major difference to the front Ezekiel. The Ezekiel from the back was one of the most commonly hit submissions in the IBJJF Worlds of 2019.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Lapel Choke From The Back",
+    "type": "Limb Lock",
+    "description": "The lapel choke is the simplest gi choke from the back. It's less strong than the bow and arrow choke, but you give up hardly any control while trying it, so you can basically try it for free.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Bow And Arrow Choke",
+    "type": "Limb Lock",
+    "description": "The bow and arrow is perhaps the single most effective submission in gi jiu jitsu. You are basically applying a gi choke with the strength of your deadlift. (I also have a theory that in the bow and arrow, your opponent's neck functions as a pulley, which even doubles the force you put into the choke. But I'm not a physicist.)",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Cross Collar Choke",
+    "type": "Limb Lock",
+    "description": "The cross collar choke is often said to be the first choke you learn and the last choke you master. It's basic, but hard to do against knowledgeable opponents. Roger Gracie is famous for mastering this submission.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Baseball Bat Choke",
+    "type": "Limb Lock",
+    "description": "The baseball bat choke is famous for choking out more people than any other choke. This happens especially often with the baseball choke from bottom side control, because nobody likes to tap after just having established a 'dominant' position.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Pena Choke",
+    "type": "Limb Lock",
+    "description": "The Pena choke is named after Felipe Pena. It's similar to a bow and arrow choke, but instead of grabbing your opponent's collar, you grab your own lapel and feed it around your opponent's neck. You then throw your top leg over your opponent's head so that you can pressure him into the choke.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Papercutter Choke",
+    "type": "Limb Lock",
+    "description": "The papercutter choke is a choke from north south. You simply grab the collar and push your forearm into the neck, and make sure the opponent can't turn towards you to relieve the pressure (usually by lifting his near shoulder with your free arm).",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Lapel Choke From Side Control",
+    "type": "Limb Lock",
+    "description": "There's a lapel choke from top side control where you feed your own lapel around your opponent's neck and then walk around to north south to cause the choke. It's sometimes called the Ninja choke because you can pass the lapel around the neck quite sneakily.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Diesel Squeezel",
+    "type": "Limb Lock",
+    "description": "There's a guillotine style choke where you jam the fist of your free arm in the neck. Keenan Cornelius calls this the Diesel Squeezel, Karel Silver Fox calls it the iron fist, and Neil Melanson also uses it. Keenan says that it's the only thing that he always taps Craig Jones with. For me it's actually my favorite submission, and I typically hit it from bottom half guard or side control.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "submission",
+    "name": "Front Naked Choke",
+    "type": "Limb Lock",
+    "description": "The front naked choke uses the rear naked choke grip, but is applied when you're in front of your opponent. It's quite an uncommon submission.",
+    "positions": ["Half Gaurd", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  }
+]

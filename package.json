@@ -1,0 +1,24 @@
+{
+  "name": "bjj-api",
+  "version": "1.0.0",
+  "description": "BJJ API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "updateDB": "node ./utils/update_mongodb.js",
+    "addaffils": "node ./utils/organizations.js"
+  },
+  "author": "Robbie Wright",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.12.1"
+  }
+}

@@ -1,0 +1,153 @@
+[
+  {
+    "category": "sweeps",
+    "name": "Hip Bump Sweep",
+    "description": "",
+    "positions": ["Closed Guard"],
+    "difficulty": 2,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Scissor Sweep",
+    "description": "",
+    "positions": ["Closed Guard", "Half Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Lumberjack Sweep",
+    "description": "",
+    "positions": ["Closed Guard", "Open Guard"],
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Waiter Sweep",
+    "description": "",
+    "positions": ["Closed Guard", "Deep Half Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Balloon Sweep",
+    "description": "",
+    "positions": ["Closed Guard", "Open Guard"],
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "100% Sweep",
+    "description": "",
+    "positions": ["Closed Guard"],
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Omoplata Sweep",
+    "description": "",
+    "positions": ["Closed Guard"],
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Old School Sweep",
+    "description": "",
+    "positions": ["Half Gaurd"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "John Wayne Sweep",
+    "description": "",
+    "positions": ["Half Gaurd"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Pendulum Sweep",
+    "description": "",
+    "positions": ["Half Gaurd"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+
+  {
+    "category": "sweeps",
+    "name": "Foot Grab Sweep",
+    "description": "",
+    "positions": ["Half Gaurd"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+
+  {
+    "category": "sweeps",
+    "name": "Butterfly Sweep",
+    "description": "",
+    "positions": ["Half Gaurd", "Open Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "De La Riva Sweep",
+    "description": "",
+    "positions": ["De La Riva"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Heel Grab Sweep",
+    "description": "",
+    "positions": ["Open Guard", "Closed Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Tripod Sweep",
+    "description": "",
+    "positions": ["Open Guard", "De La Riva", "Single Leg X"],
+    "difficulty": 4,
+    "videos": {
+      "Everywhere": [""],
+      "Mount": [""],
+      "Closed Guard": [""],
+      "Side Control": [""]
+    },
+    "images": []
+  },
+  {
+    "category": "sweeps",
+    "name": "Tomahawk Sweep",
+    "description": "",
+    "positions": ["Open Guard"],
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "category": "standing",
+    "name": "Double Leg",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 2,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Single Leg",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Fireman's Carry",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Ankle Pick",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Low Single",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Seoi Nage",
+    "type": "Takedown",
+    "description": "Shoulder Throw",
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Harai Goshi",
+    "type": "Takedown",
+    "description": "Hip Throw",
+    "difficulty": 3,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Uchi Mata",
+    "type": "Takedown",
+    "description": "Inner Thigh Throw",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "O Goshi",
+    "type": "Takedown",
+    "description": "Major Hip Throw",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Tai Otoshi",
+    "type": "Takedown",
+    "description": "Body Drop",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+
+  {
+    "category": "standing",
+    "name": "Duck Under",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+
+  {
+    "category": "standing",
+    "name": "O Soto Gari",
+    "type": "Takedown",
+    "description": "Major Outer Reaping",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Ouchi Gari",
+    "type": "Takedown",
+    "description": "Major Inner Reaping",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Kouchi Gari",
+    "type": "Takedown",
+    "description": "Minor Inner Reaping",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Foot Sweep",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Sumi Gaeshi",
+    "type": "Takedown",
+    "description": "Corner Reversal",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Tomoe Nage",
+    "type": "Takedown",
+    "description": "Circle Throw",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Collar Drag",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Knee Tap",
+    "type": "Takedown",
+    "description": "Major Inner Reaping",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Rear Body Lock",
+    "type": "Takedown",
+    "description": "Major Inner Reaping",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Double Underhooks",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Lateral Drop",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Arm Drag",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  },
+  {
+    "category": "standing",
+    "name": "Guard Pull",
+    "type": "Takedown",
+    "description": "",
+    "difficulty": 4,
+    "videos": {},
+    "images": []
+  }
+]
