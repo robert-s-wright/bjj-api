@@ -170,6 +170,8 @@ async function updateUserPermissions(data) {
     .project({ writeAccess: 1, readAccess: 1, coach: 1, admin: 1 })
     .toArray();
 
+  console.log(users);
+
   const result = await Promise.all(
     users.map(async (user) => {
       const filter = { _id: user._id };
@@ -181,11 +183,9 @@ async function updateUserPermissions(data) {
             if (key !== "_id") {
               let query = { [key]: user[key] };
 
-              item[key].map((i) => {
+              item[key].forEach((i) => {
                 if (query[key].includes(i)) {
-                  query[key] = query[key].filter((entry) => {
-                    entry !== i;
-                  });
+                  query[key] = query[key].filter((entry) => entry !== i);
                 } else {
                   query[key].push(i);
                 }
