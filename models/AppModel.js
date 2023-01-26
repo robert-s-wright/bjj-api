@@ -79,6 +79,8 @@ async function registerUser(credentials) {
     password: await bcrypt.hash(credentials.password, salt),
   };
 
+  console.log(creds);
+
   //check db for existing user
   const existingUser = await activeCollection.findOne({
     email: creds.email,
@@ -211,6 +213,50 @@ async function updateUserPermissions(data) {
   });
 }
 
+//reject user permissions
+
+async function rejectUser(data) {
+  const filter = { _id: new mongodb.ObjectId(data._id) };
+
+  const updates = {
+    $set: {
+      needWriteAccess: data.needWriteAccess.filter(
+        (item) => item !== data.clubId
+      ),
+    },
+  };
+
+  const result = await activeCollection.updateOne(filter, updates, {
+    upsert: false,
+  });
+
+  return new Promise((resolve, reject) => {
+    resolve(result);
+  });
+}
+
+//update user preferences
+
+async function updateUserPrefs(data) {
+  const filter = { _id: new mongodb.ObjectId(data._id) };
+  const existingDoc = await activeCollection.findOne(filter);
+  const replacement = {
+    ...data,
+    _id: filter._id,
+    password: existingDoc.password,
+  };
+
+  const result = await activeCollection.replaceOne(filter, replacement, {
+    upsert: false,
+  });
+
+  console.log(result);
+
+  return new Promise((resolve, reject) => {
+    resolve(result);
+  });
+}
+
 //add users to clubs
 async function addUsersToClub(data) {
   console.log(data);
@@ -273,6 +319,8 @@ module.exports = {
   getUsers,
   getAllUsers,
   updateUserPermissions,
+  rejectUser,
+  updateUserPrefs,
   addUsersToClub,
   getClubs,
   postClub,

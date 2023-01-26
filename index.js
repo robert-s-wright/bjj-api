@@ -20,6 +20,8 @@ const {
   retrieveUsers,
   retrieveAllUsers,
   updatePermissions,
+  rejectUser,
+  updateUserPrefs,
   addUsersToClub,
   getClubs,
   postClub,
@@ -165,6 +167,16 @@ const server = http.createServer((req, res) => {
   //update user permissions
   else if (req.url === "/users" && req.method === "PUT") {
     updatePermissions(req, res);
+  }
+
+  //reject user request for permissions
+  else if (req.url === "/rejectuser" && req.method === "PUT") {
+    rejectUser(req, res);
+  }
+
+  //update user preferences
+  else if (req.url === "/userprefs" && req.method === "PUT") {
+    updateUserPrefs(req, res);
   }
 
   //add user to club

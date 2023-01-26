@@ -147,6 +147,32 @@ const updatePermissions = async (req, res) => {
   }
 };
 
+const rejectUser = async (req, res) => {
+  Results.selectCollection("users");
+  try {
+    const data = await getPostData(req);
+    const result = await Results.rejectUser(JSON.parse(data));
+
+    res.writeHead(200, contentType);
+    res.end(JSON.stringify(result));
+  } catch (error) {
+    console.log(error);
+  }
+};
+
+const updateUserPrefs = async (req, res) => {
+  Results.selectCollection("users");
+  try {
+    const data = await getPostData(req);
+    const result = await Results.updateUserPrefs(JSON.parse(data));
+
+    res.writeHead(200, contentType);
+    res.end(JSON.stringify(result));
+  } catch (error) {
+    console.log(error);
+  }
+};
+
 const addUsersToClub = async (req, res) => {
   Results.selectCollection("users");
   try {
@@ -207,6 +233,8 @@ module.exports = {
   retrieveUsers,
   retrieveAllUsers,
   updatePermissions,
+  rejectUser,
+  updateUserPrefs,
   addUsersToClub,
   getClubs,
   postClub,
